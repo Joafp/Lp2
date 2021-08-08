@@ -1,4 +1,4 @@
-
+//ultima
 import java.util.Scanner;
 public class Lab2Ejercicio2 {
     public static void main(String []args ){
